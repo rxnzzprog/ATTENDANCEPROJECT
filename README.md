@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QR Code Attendance Management System
 
 A web-based **QR Code Attendance Management System** built with **Node.js, Express, MySQL, HTML5, CSS3, and JavaScript**.
@@ -79,3 +80,6 @@ Then open your browser and navigate to:
 * Session authentication powered by **JWT (JSON Web Tokens)** stored in HttpOnly cookies or Bearer headers.
 * Role-based authorization middleware (`requireRole('admin')`, `requireRole('teacher')`, `requireRole('student')`).
 * All database queries use **parameterized SQL queries** to eliminate SQL Injection risks.
+=======
+# ATTENDANCEPROJECT
+>>>>>>> ae455c36d62f4930b58afe52e75313ea5d4fd6b2
